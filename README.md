@@ -17,7 +17,7 @@
 Express es un framework para desarrollar aplicaciones web con Node.js de forma minimalista y flexible, provee de herramientas que te permitirán el manejo de rutas, creación de sitios web, construir APIs, etc. Express es uno de los frameworks más populares dentro del ecosistema de Node, este compite con otros frameworks tales como: [Fastify](https://www.fastify.io/), [Hapi](https://hapijs.com/), [Koa](https://koajs.com/), entre muchos otros más.
 
 ### Pug
-Pug es un motor de plantilla altamente influenciado por Haml e implementado con JavaScript para utilizarlo en Node y en los navegadores. Anteriormente, fue conocido por el nombre de Jade, pero como resultado de que el uso del nombre afectada a una marca registrada, tuvieron que renombrarlo.
+Pug es un motor de plantilla altamente influenciado por Haml e implementado con JavaScript para utilizarlo en Node y en los navegadores. Anteriormente, fue conocido por el nombre de Jade, pero como resultado de que el uso del nombre afectaba a una marca registrada, tuvieron que renombrarlo.
 
 ## Requisitos
 - Node.js
