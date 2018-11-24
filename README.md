@@ -26,3 +26,17 @@ Pug es un motor de plantilla altamente influenciado por Haml e implementado con 
 ## Requerimientos
 1. Crear una copia del proyecto.
 2. Clonar el proyecto en tu equipo para realizar los ejercicios.
+
+## Actividades
+### Ejercicio 1
+Crear una página con un formulario de contacto, desde el cuál se obtendrá la información y se enviará al servicio. Esta debe almacenarse en un arreglo de datos. Los campos a obtener son: 
+- Nombre.
+- Email.
+- País.
+- Mensaje del usuario.
+
+### Ejercicio 2
+Obtener los datos registrados por los usuarios y mostrarlos en formato `json`.
+
+### Ejercicio 3
+Crear una aplicación que permita iniciar sesión y registrarse. Esto no debe guardarse en base de datos, ya que solamente es para simular dichos eventos.
